@@ -1,5 +1,5 @@
 {
-  "name": "moc-designsystem",
+  "name": "design-system",
   "version": "0.0.1",
   "description": "This README would normally document whatever steps are necessary to get your application up and running.",
   "main": "index.js",
@@ -18,11 +18,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://alalbux@bitbucket.org/coffeecup/moc-designsystem.git"
+    "url": "git+https://alalbux@github.com/design-system.git"
   },
-  "author": "",
+  "author": "Amanda Albuquerque",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/coffeecup/moc-designsystem#readme",
+  "homepage": "https://github.com/alalbux/design-system.git#readme",
   "keywords": [
     "jest",
     "react",
